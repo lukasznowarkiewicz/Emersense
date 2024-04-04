@@ -59,5 +59,24 @@ As the project evolved, it became necessary for the device not only to function 
 This stage marked a significant advancement towards finalizing the product, focusing on both functionality and aesthetics.
 
 
+## Testing and Further Work
+
+This phase was particularly challenging. We were focused on improving the software, but progress was slow. Even with relatively simple sirens, it was difficult to balance the system's sensitivity to quickly detect sirens without being triggered by random noises. More accurate methods, like the autocorrelation function between the spectrum of a reference signal and the captured signal, were computationally complex, and we couldn't implement them to work in real-time.
+
+At the same time, the competition, which emphasized presenting the project rather than its operational success, demanded a significant amount of time for preparing presentations and other materials. This took away valuable time that could have been spent on development. Moreover, a complete misunderstanding of the problem we were working on and what it takes to work on such projects by the leadership of the student organization didn't make things easier.
+
+Considering all these challenges, after presenting our project at the competition, we decided to close the project. Interestingly, after we had stopped working on it, the rector of the Poznan University of Technology showed interest in the device, having heard about it in local TV news. He wanted to assemble a team of doctors and PhD students to assist in the project. However, by that time, we had already concluded the project, seeing no further prospects for it. This experience was a valuable lesson on how institutions like universities can sometimes fall short in supporting such projects.
+
+## Summary - Conclusions
+
+Reflecting on the Emersense project, we came away with several crucial insights. A major gap in our approach was the lack of a clear business model, an oversight that might have been mitigated by considering the device as part of a larger integrated system. The complexity of distinguishing emergency vehicle sirens—a problem we initially underestimated—proved to be a significant challenge. Our discussions with industry professionals, including a director from a leading automotive computer company, highlighted the universal struggle with this issue. Their interest in collaboration pointed to its relevance, yet the continued absence of such technology in cars indicates a widespread challenge.
+
+Market demand for the device remained uncertain, raising questions about its commercial viability. Although integrating the technology with a charger offered a potential pathway, the standalone module concept failed to meet expectations. This was a lesson in both the technological hurdles and the importance of clear value propositions in product design.
+
+A critical shortcoming in our development process was the organization of software work, particularly the lack of emphasis on automated testing. Effective development practices should have prioritized automated tests for every software version, introducing additional complexities such as hardware simulation and the input of audio in the I2S format. This approach would not only have streamlined troubleshooting but also ensured more rigorous validation of our system's performance.
+
+The project's discontinuation, while disheartening, provided invaluable lessons on navigating the intricate balance between technical innovation and commercial strategy in the automotive technology space.
+
+
 
 
