@@ -1,5 +1,3 @@
-
-https://github.com/lukasznowarkiewicz/Emersense/assets/82212257/11a2cc54-8b61-4021-b137-e5024b813931
 # Emersense - Emergency Vehicle Detection System
 ![Logo](imagesAndVideos/emersense-logo.png)
 
