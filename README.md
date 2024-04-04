@@ -103,7 +103,11 @@ At the same time, the competition, which emphasized presenting the project rathe
 
 
 
-https://github.com/lukasznowarkiewicz/Emersense/assets/82212257/d63571b1-7acb-4b1e-807d-cb3acde2b61a
+
+
+
+https://github.com/lukasznowarkiewicz/Emersense/assets/82212257/557e5657-ebb7-40b5-8d4b-21e4bb15feb9
+
 
 
 
